@@ -1,4 +1,4 @@
-package ContactForm;
+package SimpleContactForm.ContactForm;
 
 import java.util.ArrayList;
 import java.util.Arrays;

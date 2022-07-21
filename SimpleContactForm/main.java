@@ -1,8 +1,10 @@
+package SimpleContactForm;
+
 import java.util.Collections;
 import java.util.List;
 
-import ContactForm.Application;
-import ContactForm.ApplicationPool;
+import SimpleContactForm.ContactForm.Application;
+import SimpleContactForm.ContactForm.ApplicationPool;
 
 class Main {
 

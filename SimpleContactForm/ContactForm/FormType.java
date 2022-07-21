@@ -1,4 +1,4 @@
-package ContactForm;
+package SimpleContactForm.ContactForm;
 
 public enum FormType {
 	SERVICE_REQUEST(5),

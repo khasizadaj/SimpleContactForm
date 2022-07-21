@@ -1,4 +1,4 @@
-package ContactForm;
+package SimpleContactForm.ContactForm;
 
 public class Application implements Comparable<Application> {
 	public String id;
